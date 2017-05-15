@@ -1,0 +1,33 @@
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\bin\Debug\seri2.exe.config
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\bin\Debug\seri2.exe
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\bin\Debug\seri2.pdb
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\obj\Debug\seri2.csprojResolveAssemblyReference.cache
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\obj\Debug\seri2.Form1.resources
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\obj\Debug\seri2.Properties.Resources.resources
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\obj\Debug\seri2.csproj.GenerateResource.Cache
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\obj\Debug\seri2.exe
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\obj\Debug\seri2.pdb
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\bin\Debug\Newtonsoft.Json.dll
+c:\users\yuriy\documents\visual studio 2017\Projects\seri2\seri2\bin\Debug\Newtonsoft.Json.xml
+G:\seri2\seri2\bin\Debug\seri2.exe.config
+G:\seri2\seri2\bin\Debug\seri2.exe
+G:\seri2\seri2\bin\Debug\seri2.pdb
+G:\seri2\seri2\bin\Debug\Newtonsoft.Json.dll
+G:\seri2\seri2\bin\Debug\Newtonsoft.Json.xml
+G:\seri2\seri2\obj\Debug\seri2.csprojResolveAssemblyReference.cache
+G:\seri2\seri2\obj\Debug\seri2.Form1.resources
+G:\seri2\seri2\obj\Debug\seri2.Properties.Resources.resources
+G:\seri2\seri2\obj\Debug\seri2.csproj.GenerateResource.Cache
+G:\seri2\seri2\obj\Debug\seri2.exe
+G:\seri2\seri2\obj\Debug\seri2.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\bin\Debug\seri2.exe.config
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\obj\Debug\seri2.exe
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\obj\Debug\seri2.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\bin\Debug\seri2.exe
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\bin\Debug\seri2.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\obj\Debug\seri2.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\obj\Debug\seri2.Form1.resources
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\obj\Debug\seri2.Properties.Resources.resources
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\seri2\seri2\obj\Debug\seri2.csproj.GenerateResource.Cache
